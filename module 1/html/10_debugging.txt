@@ -1,0 +1,6 @@
+Use Chrome DevTools (Right-click > Inspect) to:
+- Modify styles live using the "Elements" tab.
+- View JavaScript logs in the "Console".
+- Set breakpoints in the "Sources" tab to debug scripts.
+- Reload the page to trace variable states step-by-step.
+- Use VS Code debugger for enhanced JS development.
