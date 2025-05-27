@@ -1,0 +1,11 @@
+body {
+    background-color: #ffffff;
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    color: #fff;
+}

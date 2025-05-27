@@ -1,0 +1,4 @@
+- Use Chrome DevTools (F12) and toggle device toolbar to simulate different screen sizes.
+- Inspect styles with the 'Elements' tab.
+- Use the 'Network' tab to verify if the CSS is loading correctly.
+- Modify CSS values live and observe the changes.
