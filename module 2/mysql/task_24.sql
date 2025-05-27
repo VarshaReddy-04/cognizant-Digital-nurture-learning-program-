@@ -1,0 +1,2 @@
+-- SQL Solution for Task 24
+-- Replace with appropriate SQL based on schema and exercise description
