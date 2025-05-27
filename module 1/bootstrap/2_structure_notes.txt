@@ -1,0 +1,4 @@
+Bootstrap Structure:
+- /css: Contains compiled CSS files including bootstrap.min.css.
+- /js: Contains compiled JavaScript plugins like bootstrap.bundle.min.js.
+- /icons: Optional Bootstrap Icons library (requires separate installation).
