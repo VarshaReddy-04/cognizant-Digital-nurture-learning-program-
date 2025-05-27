@@ -1,0 +1,5 @@
+Use Chrome DevTools:
+- Console: Check for logs or errors
+- Network: Inspect fetch requests
+- Sources: Add breakpoints and watch variables
+- Use console.log at each step to verify code flow

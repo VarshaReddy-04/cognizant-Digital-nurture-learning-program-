@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form id="regForm">
+    <input name="name" placeholder="Name" required>
+    <input name="email" type="email" placeholder="Email" required>
+    <select name="event">
+        <option value="Music">Music</option>
+        <option value="Art">Art</option>
+    </select>
+    <button type="submit">Register</button>
+</form>
+<script>
+    document.getElementById("regForm").onsubmit = function(e) {
+        e.preventDefault();
+        const { name, email, event } = e.target.elements;
+        if (!name.value || !email.value) {
+            alert("Fill all fields!");
+        } else {
+            console.log("Registered:", name.value, email.value, event.value);
+        }
+    };
+</script>
+</body>
+</html>
